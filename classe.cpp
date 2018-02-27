@@ -4,7 +4,7 @@
 #include "cabecalho.h"
 
 
-void MinhaClasse::RUN()
+void MinhaClasse::Run()
 {
 	std::cout << "Teste"<< std::endl;
 }

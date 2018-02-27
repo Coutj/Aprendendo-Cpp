@@ -1,5 +1,6 @@
 class MinhaClasse
 {
-	public: void Run();
+	public: 
+		void Run();
 };
 
